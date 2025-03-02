@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MultiWriter
+comment1.params=writers
+comment1.target=MultiWriter(java.io.BufferedWriter[])
+comment2.params=s
+comment2.target=void\ write(java.lang.String)
+comment3.params=
+comment3.target=void\ newLine()
+comment4.params=
+comment4.target=void\ flush()
+comment5.params=
+comment5.target=void\ close()
+numComments=6

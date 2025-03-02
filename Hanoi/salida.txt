@@ -1,0 +1,49 @@
+1 2
+Movimiento: Disco 1 de Poste 1 a Poste 2
+Estado actual de los postes:
+Poste 1: [3, 2]
+Poste 2: [1]
+Poste 3: []
+
+1 3
+Movimiento: Disco 2 de Poste 1 a Poste 3
+Estado actual de los postes:
+Poste 1: [3]
+Poste 2: [1]
+Poste 3: [2]
+
+2 3
+Movimiento: Disco 1 de Poste 2 a Poste 3
+Estado actual de los postes:
+Poste 1: [3]
+Poste 2: []
+Poste 3: [2, 1]
+
+1 2
+Movimiento: Disco 3 de Poste 1 a Poste 2
+Estado actual de los postes:
+Poste 1: []
+Poste 2: [3]
+Poste 3: [2, 1]
+
+3 1
+Movimiento: Disco 1 de Poste 3 a Poste 1
+Estado actual de los postes:
+Poste 1: [1]
+Poste 2: [3]
+Poste 3: [2]
+
+3 2
+Movimiento: Disco 2 de Poste 3 a Poste 2
+Estado actual de los postes:
+Poste 1: [1]
+Poste 2: [3, 2]
+Poste 3: []
+
+1 2
+Movimiento: Disco 1 de Poste 1 a Poste 2
+Estado actual de los postes:
+Poste 1: []
+Poste 2: [3, 2, 1]
+Poste 3: []
+

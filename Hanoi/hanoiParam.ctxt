@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=hanoiParam
+comment1.params=origen\ destino\ numDiscos
+comment1.target=hanoiParam(int,\ int,\ int)
+comment2.params=n\ origen\ destino\ auxiliar\ writer\ traza
+comment2.target=void\ resolverhanoiParam(int,\ int,\ int,\ int,\ java.io.BufferedWriter,\ boolean)
+comment2.text=\r\n\ M\u00E9todo\ recursivo\ para\ resolver\ el\ problema\ de\ las\ Torres\ de\ Hanoi.\r\n\ @param\ n\ N\u00FAmero\ de\ discos\ a\ mover.\r\n\ @param\ origen\ Poste\ de\ origen.\r\n\ @param\ destino\ Poste\ de\ destino.\r\n\ @param\ auxiliar\ Poste\ auxiliar.\r\n\ @param\ writer\ Escribe\ los\ movimientos\ y\ el\ estado\ de\ los\ postes.\r\n\ @param\ traza\ Indica\ si\ se\ debe\ escribir\ el\ estado\ detallado\ de\ los\ postes.\r\n
+comment3.params=origen\ destino\ writer\ traza
+comment3.target=void\ moverDisco(int,\ int,\ java.io.BufferedWriter,\ boolean)
+comment3.text=\r\n\ Metodo\ para\ mover\ un\ disco\ de\ un\ poste\ a\ otro\ y\ registra\ el\ movimiento.\r\n\ @param\ origen\ Poste\ desde\ donde\ se\ mueve\ el\ disco.\r\n\ @param\ destino\ Poste\ al\ que\ se\ mueve\ el\ disco.\r\n\ @param\ writer\ Escribe\ el\ movimiento\ y\ el\ estado\ actual\ si\ la\ traza\ est\u00E1\ activada.\r\n\ @param\ traza\ Indica\ si\ se\ debe\ detallar\ el\ estado\ actual\ de\ los\ postes.\r\n
+comment4.params=writer\ traza
+comment4.target=void\ ejecutar(java.io.BufferedWriter,\ boolean)
+comment4.text=\r\n\ M\u00E9todo\ principal\ para\ ejecutar\ la\ soluci\u00F3n\ de\ las\ Torres\ de\ Hanoi.\r\n\ @param\ writer\ Escribe\ los\ resultados\ y\ el\ estado\ (si\ aplica).\r\n\ @param\ traza\ Activa\ el\ modo\ de\ traza.\r\n
+numComments=5

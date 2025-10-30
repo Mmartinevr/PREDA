@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Asignacion
+comment1.params=tarea
+comment1.target=Asignacion(Tarea)
+comment2.params=trazar
+comment2.target=void\ resolver(boolean)
+comment3.params=agente\ costoActual\ tareasAsignadas\ asignacionActual\ costos\ trazar
+comment3.target=void\ backtrack(int,\ int,\ boolean[],\ int[],\ int[][],\ boolean)
+comment4.params=out
+comment4.target=void\ imprimirResultado(java.io.PrintStream)
+numComments=5

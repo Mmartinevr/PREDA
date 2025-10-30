@@ -1,0 +1,6 @@
+La salida tiene la asignación con coste mínimo siendo el primer valor el del agente y el segundo el de la tarea asignada.
+1 1
+2 3
+3 4
+4 2
+Costo mínimo: 61

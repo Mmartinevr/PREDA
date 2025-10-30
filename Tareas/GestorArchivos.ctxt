@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GestorArchivos
+comment1.params=nombreArchivo
+comment1.target=Tarea\ leerArchivo(java.lang.String)
+comment2.params=nombreArchivo\ asignacion
+comment2.target=void\ escribirArchivo(java.lang.String,\ Asignacion)
+comment3.params=linea\ esDimensiones
+comment3.target=void\ validarFormato(java.lang.String,\ boolean)
+numComments=4
